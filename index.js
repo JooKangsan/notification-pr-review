@@ -33,7 +33,7 @@ const reviewEmbed = ({ repoName, title, url, username }) => {
     .setColor("#e0b88a")
     .addField(" ", "")
     .setThumbnail(
-      "https://github.com/user-attachments/assets/23ca5221-eced-471d-9525-4cdd8c18536a"
+      "https://github.com/user-attachments/assets/8ace99db-2ff0-4189-89fd-b7f04b4f98ac"
     )
     .setTimestamp();
 
